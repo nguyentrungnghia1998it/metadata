@@ -1,0 +1,6 @@
+{
+  "name": "Test update Token",
+  "symbol": "TEST_UPDATE",
+  "description": "This is a test update token!",
+  "image": "https://raw.githubusercontent.com/solscanofficial/public-logos/main/zeta.png"
+}
